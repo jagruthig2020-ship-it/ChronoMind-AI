@@ -1,0 +1,4 @@
+model,MAE_ms
+Population Random Forest,77.39
+Personal baseline (first 5),45.837
+Personalized residual Random Forest,46.183

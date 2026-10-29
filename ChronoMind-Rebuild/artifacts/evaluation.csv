@@ -1,0 +1,4 @@
+model,test_mae_ms,test_r2,train_participants,test_participants,test_rows
+baseline,79.067,-0.0142,55,14,240
+random_forest,79.37,0.0108,55,14,240
+gradient_boosting,82.421,-0.0655,55,14,240
